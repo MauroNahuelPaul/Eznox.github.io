@@ -6,6 +6,41 @@ body {
     font-size: 13pt;
     color: #81c7c2;
 }
+div#hud{
+    
+    text-align: right;
+    margin-right: 15.9%;
+}
+div#text {
+    
+    margin-left: 15%; 
+    float: left;
+    text-align: center;
+    width: 35%; 
+    height: 500px;  
+    background-color: #4E4E4E;    
+    text-align: center;
+   
+}
+div#image{
+    margin-right: 15%;
+    float:right;
+    width: 35%;
+    height: 500px;
+    background-color: #4E4E4E;
+    text-align: center;  
+
+}
+div#icon{
+    margin-top: 3%;
+    margin-left: 15.9%;
+}
+div#tittle{
+    margin-top: 50%;
+    text-align: center;
+    font-size: 13pt;
+    color: white;
+}
 
 h1,h2,h3,h4 {
     text-align: center;
@@ -13,15 +48,9 @@ h1,h2,h3,h4 {
     
 }
 a{
-    color: #81c7c2;
+    color: white;
    
 }
-main {
-	margin: auto ;
-	color: #ddd ;
-	background: rgba(0,0,0,.3) ;
-	padding: 20px ;
-	border-radius: 50px ;
-}
+
 
 
