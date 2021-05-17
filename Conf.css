@@ -1,0 +1,27 @@
+body {
+    margin: 0;  
+    padding: 0;  
+    background-color: #363636;
+    font-family: 'Arial';
+    font-size: 13pt;
+    color: #81c7c2;
+}
+
+h1,h2,h3,h4 {
+    text-align: center;
+    color: white;  
+    
+}
+a{
+    color: #81c7c2;
+   
+}
+main {
+	margin: auto ;
+	color: #ddd ;
+	background: rgba(0,0,0,.3) ;
+	padding: 20px ;
+	border-radius: 50px ;
+}
+
+
