@@ -13,27 +13,27 @@ div#hud{
 }
 div#text {
     
-    margin-left: 15%; 
+    margin-left: 6%; 
     float: left;
     text-align: center;
-    width: 35%; 
-    height: 500px;  
+    width: 44%; 
+    height: 620px;  
     background-color: #4E4E4E;    
     text-align: center;
    
 }
 div#image{
-    margin-right: 15%;
+    margin-right: 6%;
     float:right;
-    width: 35%;
-    height: 500px;
+    width: 44%;
+    height: 620px;
     background-color: #4E4E4E;
     text-align: center;  
 
 }
 div#icon{
     margin-top: 3%;
-    margin-left: 15.9%;
+    margin-left: 6%;
 }
 div#tittle{
     margin-top: 50%;
