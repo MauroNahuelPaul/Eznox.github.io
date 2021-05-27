@@ -41,12 +41,16 @@ div#tittle{
     font-size: 13pt;
     color: white;
 }
-
+h1{
+    font-size: 72px;
+}
 h1,h2,h3,h4 {
+    margin: 125px 0px 0px calc((1000% - 490px)*0);
     text-align: center;
-    color: white;  
+    color: white; 
     
 }
+
 a{
     color: white;
    
